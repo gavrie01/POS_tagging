@@ -21,7 +21,8 @@ maximum_generated_text_length = 10
 # Initialize the dictionary for Markov chain
 mc_dict = {}
 #download english model
-#nlp = spacy.load("en_core_web_sm")
+# execute 'python -m spacy download en_core_web_sm' or via PIP
+nlp = spacy.load("en_core_web_sm") 
 # --------------------------------------------
 # clear console on start
 clear = lambda: os.system('cls')  # on Windows System
