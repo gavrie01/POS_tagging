@@ -1,0 +1,1396 @@
+chapter i
+
+
+the studio : LAW
+summer : DATE
+henry
+wotton : PERSON
+honeycoloured : CARDINAL
+japanese : NORP
+tokyo : GPE
+london : GPE
+basil : PERSON
+some years ago : DATE
+henry languidly : PERSON
+next year : DATE
+henry : PERSON
+only one : CARDINAL
+england : GPE
+basil : PERSON
+basil : PERSON
+eighty : CARDINAL
+eighteen : CARDINAL
+winter : DATE
+summer : DATE
+harry : PERSON
+harry : PERSON
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+basil
+hallward : PERSON
+two : CARDINAL
+bush : PERSON
+harry : PERSON
+basil : PERSON
+harry : PERSON
+henry felt : PERSON
+two
+months ago : DATE
+evening : TIME
+about ten minutes : TIME
+first : ORDINAL
+harry : PERSON
+harry : PERSON
+henry
+ : PERSON
+one : CARDINAL
+harry : PERSON
+hallward
+listlessly : PERSON
+harry : PERSON
+harry : PERSON
+english : NORP
+one : CARDINAL
+ten per cent : MONEY
+harry : PERSON
+english : LANGUAGE
+second : ORDINAL
+one : CARDINAL
+two : CARDINAL
+first : ORDINAL
+second : ORDINAL
+greek : NORP
+some day : DATE
+days : DATE
+twenty : CARDINAL
+greek : NORP
+two : CARDINAL
+agnew : PERSON
+first : ORDINAL
+harry : PERSON
+some day : DATE
+a summers day
+
+days : DATE
+summer : DATE
+henry
+perhaps : PERSON
+first : ORDINAL
+basil : PERSON
+harry
+
+ : PERSON
+basil : PERSON
+henry laughing : PERSON
+henry dorian : PERSON
+one : CARDINAL
+henry smiling : PERSON
+chapter ii : LAW
+today : DATE
+henry wotton : PERSON
+oxford friend : ORG
+three : CARDINAL
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+basil : PERSON
+henry flung : PERSON
+today : DATE
+henry : PERSON
+basil : PERSON
+one : CARDINAL
+dorians : NORP
+henry : PERSON
+some afternoon : TIME
+five : CARDINAL
+henry wotton : PERSON
+harry : PERSON
+henry
+ : PERSON
+greek : NORP
+basil : PERSON
+one : CARDINAL
+two : CARDINAL
+his eton days : DATE
+one : CARDINAL
+hellenic : NORP
+hellenic : NORP
+nearly ten minutes : TIME
+us : GPE
+sixteen : DATE
+harry : PERSON
+today : DATE
+months : DATE
+henry parker : PERSON
+basil : PERSON
+one : CARDINAL
+only a few years : DATE
+every month : DATE
+days : DATE
+our century : DATE
+june : DATE
+a month : DATE
+year : DATE
+year : DATE
+twenty : CARDINAL
+us : GPE
+two : CARDINAL
+gray : PERSON
+henry flung : PERSON
+about a quarter : CARDINAL
+one : CARDINAL
+today : DATE
+first : ORDINAL
+henry wotton : PERSON
+one : CARDINAL
+this particular day of june : DATE
+harry : PERSON
+first : ORDINAL
+one : CARDINAL
+henry wotton : PERSON
+some day : DATE
+harry : PERSON
+two : CARDINAL
+three : CARDINAL
+basil : PERSON
+harry : PERSON
+basil : PERSON
+this morning : TIME
+henry
+
+ : PERSON
+this morning : TIME
+japanese : NORP
+two : CARDINAL
+china : GPE
+two : CARDINAL
+tonight : TIME
+henry : PERSON
+the nineteenth
+century : LOC
+one : CARDINAL
+henry : PERSON
+fidelity : ORG
+tonight : TIME
+henry wotton : PERSON
+tomorrow : DATE
+this morning : TIME
+henry laughing come : PERSON
+afternoon : TIME
+at halfpast twelve : CARDINAL
+next day : DATE
+henry wotton : PERSON
+albany : GPE
+madrid : GPE
+isabella : PERSON
+paris : GPE
+english : LANGUAGE
+some months
+later : DATE
+two : CARDINAL
+one : CARDINAL
+harry : PERSON
+two : CARDINAL
+five : CARDINAL
+george : PERSON
+george : PERSON
+one : CARDINAL
+english : LANGUAGE
+harry
+ : PERSON
+george : PERSON
+henry languidly : PERSON
+george : PERSON
+kelsos : PERSON
+margaret : PERSON
+kelsos grandson : PERSON
+margaret
+devereux : PERSON
+yesterday : DATE
+a few
+months : DATE
+belgian : NORP
+a year : DATE
+madrid : GPE
+english : NORP
+a month : DATE
+one : CARDINAL
+london : GPE
+harry : PERSON
+american : NORP
+english : NORP
+americans : NORP
+george
+
+ : PERSON
+english : NORP
+harry : PERSON
+americans : NORP
+american : NORP
+english : NORP
+america : GPE
+american : NORP
+american : NORP
+henry goodbye uncle : PERSON
+george : PERSON
+agatha harry : PERSON
+burlington street : FAC
+berkeley : GPE
+a few wild weeks : DATE
+months : DATE
+the night : TIME
+greek : NORP
+first : ORDINAL
+our own century : DATE
+half : CARDINAL
+thomas burdon : PERSON
+one : CARDINAL
+one : CARDINAL
+the house of commons : ORG
+american : NORP
+thomas burdon : PERSON
+thomas : PERSON
+american : NORP
+american : NORP
+henry helping : PERSON
+america : GPE
+paris : GPE
+americans : NORP
+paris : GPE
+thomas : PERSON
+americans : NORP
+america : GPE
+henry
+
+ : PERSON
+thomas : PERSON
+chicago : GPE
+thomas : PERSON
+treadley : ORG
+americans : NORP
+americans : NORP
+thomas growing : PERSON
+henry murmured : PERSON
+the
+east end : LOC
+henry
+ : PERSON
+thomas
+ : PERSON
+england : GPE
+the nineteenth century : DATE
+early days : DATE
+one : CARDINAL
+some
+night : TIME
+tuesday : DATE
+tuesday : DATE
+english : NORP
+some day : DATE
+london : GPE
+the hour : TIME
+forty : CARDINAL
+english : NORP
+today : DATE
+one afternoon : TIME
+les cent : ORG
+china : GPE
+a
+summer day : DATE
+london : GPE
+manon lescaut : FAC
+one : CARDINAL
+louis quatorze : PERSON
+harry : PERSON
+seventeen : CARDINAL
+seventeen : CARDINAL
+eighteen : DATE
+one : CARDINAL
+two : CARDINAL
+harry : PERSON
+england : GPE
+harry harry : PERSON
+henry elevating : PERSON
+hours : TIME
+all night : TIME
+marry harry : PERSON
+one : CARDINAL
+some day : DATE
+only two : CARDINAL
+one : CARDINAL
+ten
+years : DATE
+only five : CARDINAL
+london : GPE
+two : CARDINAL
+about three weeks : DATE
+harry : PERSON
+days : DATE
+one evening : TIME
+about seven : CARDINAL
+london : GPE
+thousand : CARDINAL
+about halfpast eight : CARDINAL
+harry : PERSON
+first : ORDINAL
+fidelity : ORG
+some day : DATE
+two : CARDINAL
+the palmy days : DATE
+british : NORP
+harry
+
+ : PERSON
+juliet : PERSON
+first : ORDINAL
+juliet harry : PERSON
+seventeen years of age : DATE
+greek : NORP
+first : ORDINAL
+two : CARDINAL
+harry : PERSON
+night : TIME
+one : CARDINAL
+italian : NORP
+hose : PERSON
+harry : PERSON
+henry
+
+ : PERSON
+harry : PERSON
+some day : DATE
+one : CARDINAL
+the first night : TIME
+juliet : NORP
+hundreds : CARDINAL
+years : DATE
+the next night : TIME
+five : CARDINAL
+first : ORDINAL
+sibyl vane : PERSON
+third : ORDINAL
+the first night : TIME
+harry : PERSON
+every day : DATE
+tonight : TIME
+tonight : TIME
+tomorrow : DATE
+one : CARDINAL
+some night : TIME
+jews : NORP
+three years : DATE
+two years : DATE
+eight
+months : DATE
+night : TIME
+today : DATE
+tuesday : DATE
+tomorrow : DATE
+juliet
+ : PERSON
+tomorrow : DATE
+eight : CARDINAL
+eight : CARDINAL
+six : CARDINAL
+first : ORDINAL
+six : CARDINAL
+english : NORP
+seven : CARDINAL
+seven : CARDINAL
+basil : PERSON
+a week : DATE
+a whole month : DATE
+henry : PERSON
+harry : PERSON
+harry : PERSON
+dorian gray : PERSON
+tomorrow : DATE
+one : CARDINAL
+one : CARDINAL
+about halfpast twelve : CARDINAL
+one : CARDINAL
+fifty pounds : QUANTITY
+fifty
+pounds : QUANTITY
+today : DATE
+twenty years ago : DATE
+james : PERSON
+australia : GPE
+second : ORDINAL
+james vane : PERSON
+london : GPE
+australia : GPE
+london : GPE
+jim : PERSON
+tom hardy : PERSON
+last afternoon : TIME
+the room two or three : DATE
+some months : DATE
+every night : TIME
+one : CARDINAL
+five : CARDINAL
+jim : PERSON
+jim : PERSON
+melbourne : ORG
+a week : DATE
+six : CARDINAL
+three : CARDINAL
+one evening : TIME
+london : GPE
+only a year : DATE
+each night : TIME
+a
+few years : DATE
+many months : DATE
+one night : TIME
+jim cried : PERSON
+jim : PERSON
+some day : DATE
+australia : GPE
+tonight : TIME
+tonight : TIME
+winter : DATE
+summer : DATE
+a hundred : CARDINAL
+two : CARDINAL
+two : CARDINAL
+jim vane : PERSON
+chuck : PERSON
+five : CARDINAL
+a couple of hours : TIME
+jim : PERSON
+each minute : TIME
+six : CARDINAL
+weeks : DATE
+months : DATE
+only one : CARDINAL
+first : ORDINAL
+day : DATE
+henry : PERSON
+the bristol
+where dinner : ORG
+three : CARDINAL
+henry watching him
+ : PERSON
+america : GPE
+dorians : NORP
+basil : PERSON
+tonight : TIME
+harry : PERSON
+juliet : PERSON
+one : CARDINAL
+more than one : CARDINAL
+mans : NORP
+six months : DATE
+harry : PERSON
+evening : TIME
+one : CARDINAL
+yesterday : DATE
+evening : TIME
+harry : PERSON
+italian : NORP
+eight : CARDINAL
+orlando : GPE
+basil : PERSON
+tonight : TIME
+london : GPE
+the nineteenth century : DATE
+one : CARDINAL
+radley : PERSON
+less than a year : DATE
+kissed juliet : PERSON
+today : DATE
+harry : PERSON
+henry much : PERSON
+harry : PERSON
+henry helping : PERSON
+basil : PERSON
+first : ORDINAL
+henry
+
+ : PERSON
+one : CARDINAL
+harry : PERSON
+two : CARDINAL
+a few minutes : TIME
+years : DATE
+henry
+ : PERSON
+henry : PERSON
+first : ORDINAL
+harry : PERSON
+about
+five minutes : TIME
+a quarter : DATE
+basil : PERSON
+juliet : NORP
+second : ORDINAL
+tonight : TIME
+tonight : TIME
+second : ORDINAL
+harry : PERSON
+vane : PERSON
+this evening : TIME
+only two : CARDINAL
+basil : PERSON
+harry : PERSON
+basil : PERSON
+two : CARDINAL
+third : ORDINAL
+half : CARDINAL
+tonight : TIME
+tonight : TIME
+one : CARDINAL
+one night : TIME
+tonight : TIME
+first : ORDINAL
+tonight : TIME
+first : ORDINAL
+tonight : TIME
+tonight : TIME
+gaunt : PERSON
+midnight : TIME
+the moon : LOC
+venetian : NORP
+three : CARDINAL
+basil hallwards : ORG
+three terrible hours : TIME
+henry : PERSON
+first : ORDINAL
+long past noon : TIME
+china : GPE
+olivesatin : PERSON
+three : CARDINAL
+this morning : TIME
+dorian gray : PERSON
+one hour and a quarter : TIME
+one : CARDINAL
+that morning : TIME
+every morning : TIME
+the season : DATE
+moments : TIME
+about ten minutes : TIME
+french : NORP
+an exquisite day : DATE
+first : ORDINAL
+one : CARDINAL
+spanish : NORP
+mans : NORP
+basil : PERSON
+first : ORDINAL
+one : CARDINAL
+basil
+hallward : PERSON
+three : CARDINAL
+four : CARDINAL
+first : ORDINAL
+henry
+ : PERSON
+one : CARDINAL
+harry : PERSON
+harry : PERSON
+two days ago : DATE
+this
+morning : TIME
+harry : PERSON
+henry : PERSON
+paris : GPE
+london : GPE
+a few moments : TIME
+harry : PRODUCT
+about halfpast twelve : CARDINAL
+harry harry : PERSON
+seventeen : DATE
+night : TIME
+half : CARDINAL
+tonight : TIME
+first : ORDINAL
+first : ORDINAL
+harry : PERSON
+one : CARDINAL
+womans : NORP
+greek : NORP
+henry : PERSON
+one : CARDINAL
+a week ago : DATE
+one : CARDINAL
+sixth : ORDINAL
+harry : PERSON
+one : CARDINAL
+a century : DATE
+the day : DATE
+yesterday : DATE
+heroines : CARDINAL
+desdemona : GPE
+one night : TIME
+webster : PERSON
+ford : ORG
+evening : TIME
+suppose harry : PERSON
+a few minutes victor : TIME
+some day : DATE
+that horrible night : TIME
+him morning after morning : TIME
+winter : DATE
+spring : DATE
+summer : DATE
+one : CARDINAL
+one : CARDINAL
+an hour later : TIME
+next morning : TIME
+basil : PERSON
+last night : TIME
+a dreadful evening : TIME
+half : CARDINAL
+one : CARDINAL
+first : ORDINAL
+basil : PERSON
+venetian : NORP
+first : ORDINAL
+harry : PERSON
+years : DATE
+harry basil : PERSON
+some day : DATE
+basil : PERSON
+late yesterday : DATE
+one : CARDINAL
+the last night : TIME
+juliet : PERSON
+yesterday : DATE
+about halfpast five : CARDINAL
+six : CARDINAL
+harry : PERSON
+twenty
+years : DATE
+one day : DATE
+yellow satin : PERSON
+harry : PERSON
+harry : PERSON
+basil : PERSON
+today : DATE
+this afternoon : TIME
+christian : NORP
+us : GPE
+paris : GPE
+some day : DATE
+today : DATE
+the rue de
+sèze : FAC
+the first week : DATE
+october : DATE
+a month : DATE
+a month ago : DATE
+harry : PERSON
+henry : PERSON
+half : CARDINAL
+half : CARDINAL
+a strange quarter : DATE
+two : CARDINAL
+one : CARDINAL
+first : ORDINAL
+weeks : DATE
+weeks : DATE
+paris : GPE
+huntsmans : NORP
+nile : LOC
+greek : NORP
+one day : DATE
+harry : PERSON
+a few days : DATE
+one : CARDINAL
+paris : GPE
+harry : PERSON
+basil : PERSON
+some day : DATE
+one : CARDINAL
+basil : PERSON
+harry : PERSON
+harry spends : PERSON
+harry : PERSON
+two : CARDINAL
+an hour : TIME
+two : CARDINAL
+nearly five years : DATE
+venetian : NORP
+basil : PERSON
+michelangelo : PERSON
+winckelmann
+ : PERSON
+basil : PERSON
+rebuke : PERSON
+evening : TIME
+two or three minutes : TIME
+south audley street : LOC
+today : DATE
+more than four years : DATE
+first : ORDINAL
+italian : NORP
+some day : DATE
+the world basil : ORG
+hour by hour : TIME
+week : DATE
+one : CARDINAL
+five : CARDINAL
+cairo : GPE
+third : ORDINAL
+some night : TIME
+evening : TIME
+fifth : ORDINAL
+this morning : TIME
+dr
+birrell : PERSON
+two : CARDINAL
+red pencil victor : ORG
+english : LANGUAGE
+egyptian : NORP
+a
+few minutes : TIME
+only one : CARDINAL
+the nineteenth century : DATE
+french : NORP
+one : CARDINAL
+almost nine : CARDINAL
+henry sitting : PERSON
+harry : PERSON
+years : DATE
+paris : GPE
+nine : CARDINAL
+first : ORDINAL
+one : CARDINAL
+london : GPE
+one : CARDINAL
+basil
+hallward : PERSON
+night : TIME
+first : ORDINAL
+the winter : DATE
+wednesday : DATE
+evening : TIME
+the
+day : DATE
+oxford : ORG
+days : DATE
+one : CARDINAL
+first : ORDINAL
+london : GPE
+rome : GPE
+our own day : DATE
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+dusky gauze : PERSON
+some morning : TIME
+daily : DATE
+one : CARDINAL
+a few hours of a night : TIME
+a season : DATE
+germany : GPE
+one : CARDINAL
+hovenia : GPE
+indians : NORP
+indians : NORP
+alfonso de ovalle heard : PERSON
+chile : GPE
+mexicans : NORP
+three : CARDINAL
+two : CARDINAL
+mexican : NORP
+one : CARDINAL
+anne de joyeuse : PERSON
+france : GPE
+five hundred and sixty : CARDINAL
+years : DATE
+a whole day : DATE
+amsterdam : GPE
+three : CARDINAL
+alphonsos
+clericalis disciplina : PERSON
+emathia : PERSON
+jordan : GPE
+india : GPE
+john the
+priest : PERSON
+two : CARDINAL
+two : CARDINAL
+day : DATE
+night : TIME
+america : GPE
+marco polo : PERSON
+seven : CARDINAL
+five : CARDINAL
+venetian : NORP
+three hundred and four : CARDINAL
+louis xii : PERSON
+france : GPE
+england : GPE
+four hundred : CARDINAL
+richard ii : PERSON
+thirty
+thousand marks : MONEY
+edward ii : PERSON
+henry ii : PERSON
+twelve : CARDINAL
+europe : LOC
+summer : DATE
+summer : DATE
+rome : GPE
+titan : GPE
+apollo : ORG
+three hundred : CARDINAL
+those days : DATE
+four : CARDINAL
+thirteen
+hundred : CARDINAL
+five hundred : CARDINAL
+catherine de medicis : PERSON
+louis xiv : PERSON
+fifteen
+feet : QUANTITY
+poland : GPE
+smyrna : GPE
+turkish : NORP
+vienna : GPE
+a whole year : DATE
+dainty delhi : GPE
+evening : TIME
+java
+elaborate : ORG
+chinese : NORP
+hungary : GPE
+sicilian : NORP
+spanish : NORP
+japanese : NORP
+goldthread damask
+figured : ORG
+italian : NORP
+the fifteenth century : DATE
+fleursdelis altar : PERSON
+a season : DATE
+weeks : DATE
+some night : TIME
+half : CARDINAL
+a few years : DATE
+england : GPE
+west end : GPE
+one : CARDINAL
+twentyfifth year : DATE
+henry
+ : PERSON
+one : CARDINAL
+philip herbert : PERSON
+elizabeth : PERSON
+james : PERSON
+basil hallwards : ORG
+anthony sherard : PERSON
+mans : NORP
+george willoughby : PERSON
+the eighteenth century : DATE
+second : ORDINAL
+beckenham : GPE
+days : DATE
+one : CARDINAL
+fitzherbert : PERSON
+carlton house : ORG
+hamilton : PERSON
+seventh : ORDINAL
+tiberius : CARDINAL
+two : CARDINAL
+venetian : NORP
+paul the
+second : PERSON
+two hundred thousand : CARDINAL
+maria visconti : PERSON
+aragon : ORG
+hylas ezzelin : PERSON
+three : CARDINAL
+jewish : NORP
+sigismondo malatesta : PERSON
+rome : GPE
+christian : NORP
+charles
+vi : PERSON
+atalanta : GPE
+night : TIME
+the day : DATE
+ninth : ORDINAL
+november the eve : DATE
+about eleven : CARDINAL
+south audley street : FAC
+basil : PERSON
+first : ORDINAL
+nine : CARDINAL
+paris : GPE
+midnight : TIME
+basil : PERSON
+england : GPE
+six months : DATE
+paris : GPE
+twenty minutes : TIME
+dutch : NORP
+paris : GPE
+english : NORP
+french : NORP
+tonight : TIME
+half an hour : TIME
+half an hour : TIME
+london : GPE
+mans : NORP
+last year : DATE
+london : GPE
+last week : DATE
+the dudley staveley
+ : FAC
+henry ashton : PERSON
+adrian singleton : ORG
+yesterday : DATE
+henry ashton : PERSON
+adrian singleton : ORG
+england : GPE
+english : NORP
+harry : PERSON
+london : GPE
+dawn : TIME
+london : GPE
+first : ORDINAL
+one : CARDINAL
+oxford : ORG
+tonight : TIME
+tonight : TIME
+basil : PERSON
+tomorrow : DATE
+tonight : TIME
+one : CARDINAL
+years : DATE
+italian : NORP
+years ago : DATE
+us : GPE
+some days : DATE
+mans : NORP
+some one : CARDINAL
+three : CARDINAL
+a few seconds : TIME
+one : CARDINAL
+twenty minutes : TIME
+two : CARDINAL
+every year : DATE
+england : GPE
+basil : PERSON
+paris : GPE
+paris : GPE
+basil : PERSON
+months : DATE
+months : DATE
+about five minutes : TIME
+ten minutes past two : TIME
+ten minutes past two : TIME
+nine
+tomorrow : TIME
+evening : TIME
+paris : GPE
+nine tomorrow : TIME
+a quarter of an hour : DATE
+one : CARDINAL
+alan campbell : PERSON
+chapter xiv : LAW
+nine : CARDINAL
+november : DATE
+a morning : TIME
+basil : PERSON
+the day : DATE
+one : CARDINAL
+three : CARDINAL
+womans : NORP
+two : CARDINAL
+street francis : PERSON
+campbell
+ : PERSON
+first : ORDINAL
+basil : PERSON
+adrian singleton : ORG
+venice : GPE
+sein de : ORG
+sort de leau : ORG
+un : ORG
+one : CARDINAL
+venice : GPE
+two : CARDINAL
+venice : GPE
+oxford : ORG
+basil : PERSON
+smyrna : GPE
+alan campbell : PERSON
+days : DATE
+five years : DATE
+alan campbell : PERSON
+his year : DATE
+first : ORDINAL
+eighteen months : DATE
+every day : DATE
+as the minutes : TIME
+the
+jagged edge : ORG
+campbell : ORG
+alan campbell : PERSON
+more than one : CARDINAL
+two : CARDINAL
+ten hours : TIME
+alan : PERSON
+one : CARDINAL
+paris : GPE
+months : DATE
+henry
+wotton : PERSON
+alan : PERSON
+alan : PERSON
+about those days : DATE
+alan alan : PERSON
+alan : PERSON
+alan : PERSON
+two or three minutes : TIME
+alan : PERSON
+nearly twenty minutes : TIME
+one : CARDINAL
+alan : PERSON
+alan murmured : PERSON
+about ten minutes : TIME
+two : CARDINAL
+richmond : GPE
+richmond : GPE
+harden : GPE
+richmond : GPE
+alan : PERSON
+third : ORDINAL
+about five hours : TIME
+at halfpast seven : CARDINAL
+alan : PERSON
+alan : PERSON
+half : CARDINAL
+the night : TIME
+first : ORDINAL
+one : CARDINAL
+basil : PERSON
+campbell : ORG
+seven : CARDINAL
+campbell : ORG
+parma : NORP
+one : CARDINAL
+french : NORP
+french : NORP
+french : NORP
+this evening : TIME
+one : CARDINAL
+every summer : DATE
+elizabeth : PERSON
+two : CARDINAL
+one : CARDINAL
+london : GPE
+alice chapman : PERSON
+one : CARDINAL
+british : NORP
+henry wotton : PERSON
+this morning : TIME
+harry : PERSON
+henry : PERSON
+tonight : TIME
+a whole week : DATE
+one : CARDINAL
+vienna : GPE
+thirty years ago : DATE
+french : NORP
+third : ORDINAL
+third : ORDINAL
+fourth : ORDINAL
+four : CARDINAL
+henry : PERSON
+henry : PERSON
+first : ORDINAL
+first : ORDINAL
+henry
+
+ : GPE
+henry : PERSON
+henry : PERSON
+tonight : TIME
+andrew
+ : PERSON
+thousand : CARDINAL
+some afternoon : TIME
+henry : PERSON
+henry mr chapman : PERSON
+british : NORP
+english : LANGUAGE
+harry : PERSON
+last night : TIME
+twentieth : ORDINAL
+harry : PERSON
+ten years : DATE
+ten years : DATE
+early last night : TIME
+eleven : CARDINAL
+nearly three : CARDINAL
+two : CARDINAL
+tonight : TIME
+harry : PERSON
+tomorrow : DATE
+next day : DATE
+tomorrow : DATE
+harry : PERSON
+an hour : TIME
+between two : CARDINAL
+chinese : NORP
+twenty minutes : TIME
+twelve : CARDINAL
+midnight : TIME
+an hour : TIME
+henry : PERSON
+the first day : DATE
+the moon hung : FAC
+half a mile : QUANTITY
+one : CARDINAL
+two : CARDINAL
+about a hundred : CARDINAL
+mans : NORP
+one : CARDINAL
+three days : DATE
+about seven or eight minutes : CARDINAL
+two : CARDINAL
+one : CARDINAL
+some malays : DATE
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+three : CARDINAL
+adrian : NORP
+last george : GPE
+basil : PERSON
+adrian singleton : ORG
+one : CARDINAL
+two : CARDINAL
+adrian singleton : ORG
+one : CARDINAL
+tonight : TIME
+two : CARDINAL
+womans : NORP
+adrian singleton : ORG
+adrian singleton : ORG
+a few seconds : TIME
+second : ORDINAL
+years : DATE
+two : CARDINAL
+tonight : TIME
+tonight : TIME
+james vane : PERSON
+one minute : TIME
+tonight : TIME
+india : GPE
+eighteen years : DATE
+eighteen years : DATE
+eighteen years : DATE
+james vane : PERSON
+twenty : CARDINAL
+so many years ago : DATE
+james vane : PERSON
+james vane : PERSON
+mans : NORP
+mans : NORP
+eighteen years : DATE
+james vane : PERSON
+eighteen years : DATE
+a week later : DATE
+sixty : CARDINAL
+china : GPE
+henry : PERSON
+brazilian : NORP
+three : CARDINAL
+twelve : CARDINAL
+the next day : DATE
+two : CARDINAL
+yesterday : DATE
+seven : CARDINAL
+one : CARDINAL
+one : CARDINAL
+harry : PERSON
+today : DATE
+harry : PERSON
+seven : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+seven : CARDINAL
+europe : LOC
+england : GPE
+harry
+
+ : PERSON
+years ago : DATE
+this evening : TIME
+ten minutes to : TIME
+eight : CARDINAL
+one : CARDINAL
+henry : PERSON
+one : CARDINAL
+harry : PERSON
+this evening : TIME
+greek : NORP
+greek : NORP
+tonight : TIME
+harry
+ : PERSON
+james vane : PERSON
+the next day : DATE
+night : TIME
+a
+wild hour : TIME
+six : CARDINAL
+the third day : DATE
+winter : DATE
+an hour : TIME
+geoffrey
+clouston : PERSON
+two : CARDINAL
+some twenty yards : QUANTITY
+two : CARDINAL
+geoffrey : PERSON
+the
+day : DATE
+hours : TIME
+henry : PERSON
+today : DATE
+harry : PERSON
+fifty yards : QUANTITY
+mans : NORP
+harry : PERSON
+one : CARDINAL
+harry : PERSON
+tonight : TIME
+harry : PERSON
+henry
+lighting : PERSON
+harry : PERSON
+harry : PERSON
+gray
+harry : PERSON
+gray : PERSON
+this morning : TIME
+harry : PERSON
+henry : PERSON
+strawberry : PERSON
+henry
+
+ : PERSON
+five : CARDINAL
+this
+morning : TIME
+thornton : PERSON
+one : CARDINAL
+less than a quarter : DATE
+two : CARDINAL
+one : CARDINAL
+james
+vane : PERSON
+some minutes : TIME
+henry dipping : PERSON
+yesterday : DATE
+yesterday : DATE
+only two : CARDINAL
+harry : PRODUCT
+more than one : CARDINAL
+harry : PERSON
+one : CARDINAL
+first : ORDINAL
+two or three : CARDINAL
+yesterday : DATE
+this morning : TIME
+henry laughing : PERSON
+one : CARDINAL
+some day : DATE
+this morning : TIME
+first : ORDINAL
+years : DATE
+first : ORDINAL
+days : DATE
+six weeks : DATE
+british : NORP
+more than one : CARDINAL
+every three months : DATE
+alan : PERSON
+scotland : GPE
+paris : GPE
+midnight : TIME
+ninth : ORDINAL
+november : DATE
+french : NORP
+basil : PERSON
+paris : GPE
+san francisco : GPE
+san francisco : GPE
+basil : PERSON
+only two : CARDINAL
+the
+nineteenth century : DATE
+harry : PERSON
+basil : PERSON
+basil : PERSON
+basil : PERSON
+years ago : DATE
+basil : PERSON
+paris : GPE
+basil : PERSON
+harry : PERSON
+the last ten years : DATE
+henry : PERSON
+years ago : DATE
+british : NORP
+harry : PERSON
+henry elevating : PERSON
+last sunday : DATE
+london : GPE
+sunday : DATE
+christian : NORP
+one : CARDINAL
+only ten years : DATE
+tonight : TIME
+the day : DATE
+first : ORDINAL
+yesterday : DATE
+one : CARDINAL
+tonight : TIME
+month : DATE
+days : DATE
+harry : PERSON
+honeycoloured moon : LOC
+evening : TIME
+tonight : TIME
+harry : PERSON
+tonight : TIME
+tomorrow : DATE
+eleven : TIME
+the year : DATE
+harry : PERSON
+a lovely night : TIME
+two : CARDINAL
+evening : TIME
+half : CARDINAL
+henry : PERSON
+his days : DATE
+that night : TIME
+first : ORDINAL
+two : CARDINAL
+james vane : PERSON
+alan campbell : PERSON
+one night : TIME
+basil : PERSON
+alan campbell : PERSON
+one : CARDINAL
+merton : DATE
+one : CARDINAL
+basil : PERSON
+night : TIME
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+henry ashtons : PERSON
+about a quarter : CARDINAL
+one : CARDINAL
+evening : TIME
